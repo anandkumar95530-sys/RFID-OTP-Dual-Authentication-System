@@ -147,7 +147,7 @@ SecurePass-Duo/
 
 ## Author
 
-**Anand Kumar**
+**Anand Paul**
 
 B.Tech – Electrical and Electronics Engineering
 
